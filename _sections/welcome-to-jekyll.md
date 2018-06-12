@@ -1,5 +1,5 @@
 ---
-title: Welcome to Jekyll!
+title: The Markdown page!
 icon: fa-check
 order: 5
 ---
