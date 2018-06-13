@@ -31,7 +31,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SLUBI
-subtitle: The SLU Bioinformatics Infrastructure
+subtitle: Bioinformatics at SLU
 description: >- # this means to ignore newlines until "baseurl:"
   Our main goal is to provide support and training in Bioinformatics for SLU staff, as well as build a strong community of bioinformaticians within SLU.
   Our staff is located on the 3 campuses of Ultuna, Umeå and Alnarp.
@@ -48,7 +48,7 @@ url: "https://slubioinformaticsinfrastructure.github.io" # the base hostname & p
 
 # Social settings
 facebook_url:
-github_url:
+github_url: https://github.com/SLUBioinformaticsInfrastructure
 googleplus_url:
 instagram_url:
 linkedin_url:
