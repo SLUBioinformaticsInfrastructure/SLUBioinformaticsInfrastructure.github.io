@@ -5,7 +5,7 @@ icon: fa-calendar
 order: 4
 ---
 
-### Coming events!!
+### Upcoming events!!
 
 **Bioinformatics drop-in sessions in Ultuna** will start during fall 2018: to be announced soon!
 
