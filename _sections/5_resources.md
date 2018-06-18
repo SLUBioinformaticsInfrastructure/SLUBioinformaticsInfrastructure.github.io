@@ -14,3 +14,7 @@ We would like to remind that researchers can get computing resources for free by
 
 ### Cloud computing
 SLU has an agreement with Microsoft Azure for cloud computing (including price discounts). You can get more information by contacting the [IT-support](https://student.slu.se/en/study-support/it-support/)
+
+### SLUBI on GitHub
+
+[SLUBI's GitHub]( {{site.github_url}})

@@ -1,6 +1,6 @@
 ---
 title: Welcome to SLUBI
-icon: fa-home
+icon: fa-about
 order: 1
 ---
 

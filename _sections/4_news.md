@@ -14,6 +14,6 @@ order: 4
 ### Past events:
 # SLUBI day on the 4th of June 2018
 
-![SLUBIday_June2018](assets/images/news/20180604_SLUBI_day_flyer_1A4.pdf)
+![SLUBIday_June2018](assets/images/news/20180604_SLUBI_day_flyer_1A4.png)
 
 # Kick-off meeting 27th of October 2017

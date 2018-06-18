@@ -4,7 +4,7 @@ layout: default
 icon: fa-laptop
 order: 2
 ---
-![SLUBI_logo](assets/images/SLUBI_logo.pdf)
+![SLUBI_logo]({{ site.avatar}} )
 
 ## How do I get bioinformatics support from SLUBI?
 
