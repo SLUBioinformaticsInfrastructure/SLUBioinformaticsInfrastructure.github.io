@@ -7,15 +7,17 @@ order: 5
 
 ### Upcoming events!!
 
-**Bioinformatics drop-in sessions in Ultuna** will start during fall 2018: to be announced soon!
+**Bioinformatics drop-in sessions in Ultuna** every second Wednesday (even weeks) in Ulls Hus, entrance floor (sofa's corner between Amigo and students computers)!
 
-**R workshop 24th of September**: SLUBI and the research school GS-VMAS are jointly organising a R-day for researchers and supervisors. Send an email to [juliette.hayer@slu.se](juliette.hayer@slu.se) to register **before the 10th of September!**
+![Dropin_flyer](assets/images/news/dropin-ultuna.png)
 
-**Information to the participants [here](http://www.slubi.se/r_workshop_for_pis/).**
+
+### Past events:
+
+# R workshop 24th of September: SLUBI and the research school GS-VMAS jointly organised a R-day for researchers and supervisors.
 
 ![GS-VMAS_poster](assets/images/news/workshop_R_2018_sept.png)
 
-### Past events:
 # SLUBI day on the 4th of June 2018
 
 ![SLUBIday_June2018](assets/images/news/20180604_SLUBI_day_flyer_1A4.png)
