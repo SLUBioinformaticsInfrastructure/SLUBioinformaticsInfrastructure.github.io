@@ -10,7 +10,7 @@ order: 2
 
 **VH faculty:**
 To get bioinformatics support at VH faculty, please send and email to: [slubi-vh@slu.se](slubi-vh@slu.se).
-We will arrange a first consultation meeting to discuss your project and what kind of support is needed. The consultation is for free. We provide short term support for free (one or two days)
+We will arrange a first consultation meeting to discuss your project and what kind of support is needed. The consultation is for free. We provide short term support for free (one or two days).
 For additional support (long term), the support fee is 600 SEK/h.
 
 **LTV faculty:**
