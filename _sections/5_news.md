@@ -7,7 +7,10 @@ order: 5
 
 ### Upcoming events!!
 
-**Bioinformatics drop-in sessions in Ultuna** every second Wednesday (even weeks) in Ulls Hus, entrance floor (sofa's corner between Amigo and students computers)!
+**Course: Introduction to Bioinformatics - Ultuna January-March 2019**:
+Please visit the [course page](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
+
+**Bioinformatics drop-in sessions in Ultuna**
 
 ![Dropin_flyer](assets/images/news/dropin-ultuna.png)
 

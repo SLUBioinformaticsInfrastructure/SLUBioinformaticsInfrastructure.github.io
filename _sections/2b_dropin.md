@@ -18,4 +18,5 @@ Usually on **Mondays 10.00-12.00 at UPSC bioinformatics facility (UPSC, KBC, roo
 
 # In Alnarp
 
-No regular drop-in at SLU Alnarp but NBIS dropin at Lund University on Wednesdays 10 am [(more info here)](https://www.biology.lu.se/services/national-bioinformatics-infrastructure)
+Every second **Wednesday (even weeks) 13.30-14.30 - Aquarium​ room in Horticum**.
+These bioinformatics drop-in sessions are combined with the weekly R-help group.
