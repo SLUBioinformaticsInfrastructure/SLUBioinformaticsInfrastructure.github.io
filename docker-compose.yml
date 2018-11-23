@@ -6,9 +6,9 @@ services:
         image: jekyll/jekyll:latest
         command: jekyll serve --watch --force_polling --verbose
         environment:
-            VIRTUAL_HOST: slubi.se
+            VIRTUAL_HOST: www.slubi.se
             VIRTUAL_PORT: 4000
-            LETSENCRYPT_HOST: slubi.se
+            LETSENCRYPT_HOST: www.slubi.se
             LETSENCRYPT_EMAIL: juliette.hayer@slu.se
         expose:
             - 4000
