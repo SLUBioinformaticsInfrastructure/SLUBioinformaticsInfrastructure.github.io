@@ -7,15 +7,16 @@ order: 5
 
 ### Upcoming events!!
 
-**Course: Introduction to Bioinformatics - Ultuna January-March 2019**:
-Please visit the [course page](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
-
-**Bioinformatics drop-in sessions in Ultuna**
-
-![Dropin_flyer](assets/images/news/dropin-ultuna.png)
+**RNA-seq course  - to be announced soon**
 
 
 ### Past events:
+
+# Bioinformatics course - Ultuna January-March 2020 (next course will be held in Sept 2021):
+Please visit the [course page](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
+
+# Uppmax information meeting: 8 May 2019
+Uppmax staff came to SLU for informing on how to use the free Uppmax computing resources
 
 # R workshop 24th of September: SLUBI and the research school GS-VMAS jointly organised a R-day for researchers and supervisors.
 
