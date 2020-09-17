@@ -2,7 +2,7 @@
 title: Events and News
 layout: default
 icon: fa-calendar
-order: 5
+order: 7
 ---
 
 ### Upcoming events!!
