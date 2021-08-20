@@ -31,14 +31,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SLUBI
-subtitle: Bioinformatics at SLU
+subtitle: SLU Bioinformatics Infrastructure
 description: >- # this means to ignore newlines until "baseurl:"
-  Our main goal is to provide support and training in Bioinformatics for SLU staff, as well as build a strong community of bioinformaticians within SLU.
+  Our main goal is to provide support and training in bioinformatics for SLU staff, as well as to build a strong community of bioinformaticians within SLU.
   Our staff is located on the 3 campuses of Ultuna, Umeå and Alnarp.
-  We want to join forces and coordinate teaching activities, common resources (hardware, software)
+  We want to join forces and coordinate teaching activities and common resources (hardware, software)
 
-author: Juliette Hayer
-email: juliette.hayer@slu.se
+author: Amrei Binzer-Panchal
+email: amrei.binzer.panchal@slu.se
 avatar: assets/images/logos/SLUBI_logo_smaller.png
 cover-photo: assets/images/group_pic.jpeg
 
