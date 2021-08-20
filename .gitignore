@@ -1,2 +1,3 @@
 _site/docker-compose.yml
 _site
+.DS_Store

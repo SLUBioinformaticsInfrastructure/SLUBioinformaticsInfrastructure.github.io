@@ -1,13 +1,13 @@
 ---
-title: Drop-in sessions
+title: Drop-in session
 layout: default
 icon: fa-laptop
 order: 3
 ---
 
-## DROP-IN ONLINE - Every Wednesday 13.00-14.00
-Meet us in this [Zoom room](https://slu-se.zoom.us/j/63415335469)
-(Password: 329571)
+## ONLINE - Every Wednesday 13.00-14.00
+Meet us in this [Zoom room](https://slu-se.zoom.us/j/65236249473)
+(Password: 410410)
 
 
-Before the pandemics, SLUBI used to organises Bioinformatics drop-in sessions at all 3 campi for answering various Bioinformatics questions around a fika. It is also the opportunity for bioinformaticians to gather and exchange about their experiences. Now the drop-in goes online: all campi at the same place and time!
+Before the pandemic, SLUBI organised bioinformatics drop-in sessions at all 3 SLU campuses for answering various bioinformatics questions around a fika. Now the drop-in goes online: all campuses at the same place and time! Come and join us with your questions or take the opportunity to gather and exchange experiences with other bioinformaticians. 
