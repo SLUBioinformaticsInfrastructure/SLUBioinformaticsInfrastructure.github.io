@@ -7,10 +7,11 @@ order: 9
 
 ### Upcoming and current events:
 
-# Analysis of High Throughput Sequencing RNA-Seq Data (in planning)
+# Analysis of High Throughput Sequencing RNA-Seq Data 
+(in planning)
 
 # Statistics seminar series, arranged by SLUs centre of statistics (ongoing)
-More information [here] (https://www.slu.se/en/ew-news/2021/7/environmental_statistics---a-statisticsslu-seminar-series/)
+More information [here](https://www.slu.se/en/ew-news/2021/7/environmental_statistics---a-statisticsslu-seminar-series/)
 
 # Bioinformatics course - Ultuna and online (ongoing)
 Please visit the [course page](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
