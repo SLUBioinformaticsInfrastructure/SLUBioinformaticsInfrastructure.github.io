@@ -2,19 +2,24 @@
 title: Events and News
 layout: default
 icon: fa-calendar
-order: 7
+order: 9
 ---
 
-### Upcoming events!!
+### Upcoming and current events:
 
-# Bioinformatics course - Ultuna and online
+# Analysis of High Throughput Sequencing RNA-Seq Data (in planning)
+
+# Statistics seminar series, arranged by SLUs centre of statistics (ongoing)
+More information [here] (https://www.slu.se/en/ew-news/2021/7/environmental_statistics---a-statisticsslu-seminar-series/)
+
+# Bioinformatics course - Ultuna and online (ongoing)
 Please visit the [course page](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
 
 ### Past events:
 
-# RNA-seq course
+# Analysis of High Throughput Sequencing RNA-Seq Data - winter 2020
 
-# Bioinformatics course - Ultuna January-March 2020
+# Bioinformatics course - Ultuna, spring 2020
 
 # Uppmax information meeting: 8 May 2019
 Uppmax staff came to SLU for informing on how to use the free Uppmax computing resources.
