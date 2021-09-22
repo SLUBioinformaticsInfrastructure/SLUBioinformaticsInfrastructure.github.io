@@ -2,8 +2,11 @@
 title: Events and News
 layout: default
 icon: fa-calendar
-order: 9
+order: 10
 ---
+
+# We are hiring!
+Please check out [this](https://www.slu.se/en/about-slu/work-at-slu/jobs-vacancies/?rmpage=job&rmjob=5409&rmlang=UK) advert for a position in our team!
 
 ### Upcoming and current events:
 
