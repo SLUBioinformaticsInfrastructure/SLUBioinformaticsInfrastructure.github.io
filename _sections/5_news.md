@@ -5,21 +5,19 @@ icon: fa-calendar
 order: 10
 ---
 
-# We are hiring!
-Please check out [this](https://www.slu.se/en/about-slu/work-at-slu/jobs-vacancies/?rmpage=job&rmjob=5409&rmlang=UK) advert for a position in our team!
-
 ### Upcoming and current events:
 
 # Analysis of High Throughput Sequencing RNA-Seq Data 
-(in planning)
+(winter 2021)
 
 # Statistics seminar series, arranged by SLUs centre of statistics (ongoing)
 More information [here](https://www.slu.se/en/ew-news/2021/7/environmental_statistics---a-statisticsslu-seminar-series/)
 
-# Bioinformatics course - Ultuna and online (ongoing)
-Please visit the [course page](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
 
 ### Past events:
+
+# Bioinformatics course - Ultuna and online - autumn 2021
+Course information [here](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
 
 # Analysis of High Throughput Sequencing RNA-Seq Data - winter 2020
 
