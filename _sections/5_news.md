@@ -7,14 +7,14 @@ order: 10
 
 ### Upcoming and current events:
 
-# Analysis of High Throughput Sequencing RNA-Seq Data 
-(winter 2021)
+# We want to welcome out newest member, Abu Bakar Siddique! Welcome to our team!
 
-# Statistics seminar series, arranged by SLUs centre of statistics (ongoing)
-More information [here](https://www.slu.se/en/ew-news/2021/7/environmental_statistics---a-statisticsslu-seminar-series/)
+# Preparation of new bioinformatics course - stay tuned!
 
 
 ### Past events:
+
+# Analysis of High Throughput Sequencing RNA-Seq Data  - winter 2021
 
 # Bioinformatics course - Ultuna and online - autumn 2021
 Course information [here](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10)
