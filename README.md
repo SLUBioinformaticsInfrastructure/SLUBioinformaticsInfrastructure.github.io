@@ -1,3 +1,7 @@
+This homepage is not used anymore and is replaced by the distill homepage SLUBioinformaticsInfrastructure/Slubi_distill_homepage. Therefore, this repository is archived. 
+
+
+
 # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
